@@ -79,7 +79,7 @@ function sendMail(event) {
       });
     });
     function openWin() {
-      window.open("http://127.0.0.1:5500/index/loginpasswordpop.html");
+      window.open("https://github.com/deeava24/CS112/blob/main/loginpasswordpop.html");
     }
 
       
